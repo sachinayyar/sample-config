@@ -19,6 +19,6 @@ spec:
           imagePullPolicy: Always
           name: spring-prod
           ports:
-            - containerPort: 8081
+            - containerPort: 8080
               protocol: TCP
            
